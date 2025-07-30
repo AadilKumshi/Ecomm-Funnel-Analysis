@@ -3,7 +3,7 @@ End-to-end analysis of a simulated e-commerce dataset with session-based funnel 
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 To analyze user behavior across key e-commerce funnel stages — from visit to purchase — and evaluate the effectiveness of different marketing channels through metrics like Conversion Rate, Customer Acquisition Cost (CAC), and Return on Investment (ROI). The goal is to deliver actionable business insights for product and marketing teams.
 
@@ -65,12 +65,8 @@ All charts are saved in a `visuals/` folder for reference.
 
 ## 📁 Deliverables
 
-- ✅ Cleaned and processed dataset
-- ✅ KPI calculations and visualizations
-- ✅ One-page stakeholder-ready business report
-- ✅ GitHub documentation (this README)
+-  Cleaned and processed dataset
+-  KPI calculations and visualizations
+-  One-page stakeholder-ready business report
+-  GitHub documentation (this README)
 
----
-
-> 📁 This project simulates real-world analyst work — from data wrangling and business KPIs to stakeholder reporting.  
-> Feel free to fork, clone, or reach out for collaboration!
