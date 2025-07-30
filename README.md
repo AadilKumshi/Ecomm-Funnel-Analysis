@@ -67,6 +67,5 @@ All charts are saved in a `visuals/` folder for reference.
 
 -  Cleaned and processed dataset
 -  KPI calculations and visualizations
--  One-page stakeholder-ready business report
 -  GitHub documentation (this README)
 
